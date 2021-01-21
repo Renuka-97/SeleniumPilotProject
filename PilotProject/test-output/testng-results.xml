@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="83963" started-at="2021-01-21T10:42:10Z" finished-at="2021-01-21T10:43:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="83963" started-at="2021-01-21T10:42:10Z" finished-at="2021-01-21T10:43:34Z">
+      <class name="test.ExcelExecute">
+        <test-method status="PASS" signature="DemoProject(java.lang.String, java.lang.String)[pri:0, instance:test.ExcelExecute@27efef64]" name="DemoProject" duration-ms="19918" started-at="2021-01-21T10:42:12Z" data-provider="testdata" finished-at="2021-01-21T10:42:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoProject -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExcelExecute@27efef64]" name="tearDown" is-config="true" duration-ms="1364" started-at="2021-01-21T10:42:32Z" finished-at="2021-01-21T10:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="DemoProject(java.lang.String, java.lang.String)[pri:0, instance:test.ExcelExecute@27efef64]" name="DemoProject" duration-ms="15164" started-at="2021-01-21T10:42:33Z" data-provider="testdata" finished-at="2021-01-21T10:42:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[renukazade5@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Zader@2021]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoProject -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExcelExecute@27efef64]" name="tearDown" is-config="true" duration-ms="1097" started-at="2021-01-21T10:42:48Z" finished-at="2021-01-21T10:42:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="DemoProject(java.lang.String, java.lang.String)[pri:0, instance:test.ExcelExecute@27efef64]" name="DemoProject" duration-ms="18305" started-at="2021-01-21T10:42:50Z" data-provider="testdata" finished-at="2021-01-21T10:43:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[zaderenuka97@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Raniz@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoProject -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExcelExecute@27efef64]" name="tearDown" is-config="true" duration-ms="1302" started-at="2021-01-21T10:43:08Z" finished-at="2021-01-21T10:43:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="DemoProject(java.lang.String, java.lang.String)[pri:0, instance:test.ExcelExecute@27efef64]" name="DemoProject" duration-ms="23602" started-at="2021-01-21T10:43:09Z" data-provider="testdata" finished-at="2021-01-21T10:43:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Add@1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoProject -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:test.ExcelExecute@27efef64]" name="tearDown" is-config="true" duration-ms="1645" started-at="2021-01-21T10:43:33Z" finished-at="2021-01-21T10:43:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.ExcelExecute -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
